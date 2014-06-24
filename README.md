@@ -3,11 +3,13 @@ Google_Scanner
 
 搜索Google可用IP，并自动修改hosts文件。
 
-在原作者版本上加入了制动修改hosts文件功能，使得更加方便。
+在原作者版本上加入了自动修改hosts文件功能，使得更加方便。
 
 在bat文件中修改该google.py文件所在地址：
 
 python //google.py文件地址// -u http://tx.txthinking.com/hosts
+如：
+python c:\google.py
 
 run.bat需管理员权限运行。
 
